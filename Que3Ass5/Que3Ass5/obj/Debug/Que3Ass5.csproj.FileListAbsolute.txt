@@ -1,0 +1,7 @@
+C:\Users\harsh\source\repos\Que3Ass5\Que3Ass5\bin\Debug\Que3Ass5.exe.config
+C:\Users\harsh\source\repos\Que3Ass5\Que3Ass5\bin\Debug\Que3Ass5.exe
+C:\Users\harsh\source\repos\Que3Ass5\Que3Ass5\bin\Debug\Que3Ass5.pdb
+C:\Users\harsh\source\repos\Que3Ass5\Que3Ass5\obj\Debug\Que3Ass5.csproj.AssemblyReference.cache
+C:\Users\harsh\source\repos\Que3Ass5\Que3Ass5\obj\Debug\Que3Ass5.csproj.CoreCompileInputs.cache
+C:\Users\harsh\source\repos\Que3Ass5\Que3Ass5\obj\Debug\Que3Ass5.exe
+C:\Users\harsh\source\repos\Que3Ass5\Que3Ass5\obj\Debug\Que3Ass5.pdb

@@ -1,0 +1,7 @@
+C:\Users\harsh\source\repos\Que7Ass5\Que7Ass5\bin\Debug\Que7Ass5.exe.config
+C:\Users\harsh\source\repos\Que7Ass5\Que7Ass5\bin\Debug\Que7Ass5.exe
+C:\Users\harsh\source\repos\Que7Ass5\Que7Ass5\bin\Debug\Que7Ass5.pdb
+C:\Users\harsh\source\repos\Que7Ass5\Que7Ass5\obj\Debug\Que7Ass5.csproj.AssemblyReference.cache
+C:\Users\harsh\source\repos\Que7Ass5\Que7Ass5\obj\Debug\Que7Ass5.csproj.CoreCompileInputs.cache
+C:\Users\harsh\source\repos\Que7Ass5\Que7Ass5\obj\Debug\Que7Ass5.exe
+C:\Users\harsh\source\repos\Que7Ass5\Que7Ass5\obj\Debug\Que7Ass5.pdb
